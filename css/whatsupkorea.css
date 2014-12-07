@@ -1,5 +1,8 @@
 /* This is the custom CSS for whatsupkorea.info  */
 
-img {
+img.fullwidth {
 	width: 100%;
+}
+img.titlelogo {
+	float: left;
 }
