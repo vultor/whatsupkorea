@@ -6,3 +6,20 @@ img.fullwidth {
 img.titlelogo {
 	float: left;
 }
+
+/* Stack all blocks to start */
+.ui-block-a,
+.ui-block-b {
+    width: 100%;
+    float: none;
+}
+
+@media all and (min-width: 62em) {
+	.ui-block-b {
+		float: right;
+		width: 49.95%;
+	}
+	.ui-block-a {
+		width: 49.95%;
+	}
+}
