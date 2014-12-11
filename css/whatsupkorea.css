@@ -1,19 +1,17 @@
 /* This is the custom CSS for whatsupkorea.info  */
-
 img.fullwidth {
 	width: 100%;
 }
 img.titlelogo {
 	float: left;
 }
-
-/* Stack all blocks to start */
+/* stacked to start */
 .ui-block-a,
 .ui-block-b {
     width: 100%;
     float: none;
 }
-
+/* two columns at custom breakpoint */
 @media all and (min-width: 62em) {
 	.ui-block-b {
 		float: right;
