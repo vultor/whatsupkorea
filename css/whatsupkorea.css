@@ -6,16 +6,17 @@ img.titlelogo {
 	float: left;
 }
 /* stacked to start */
-.ui-block-a,
-.ui-block-b,
-.ui-block-c {
+.ui-content .ui-block-a,
+.ui-content .ui-block-b,
+.ui-content .ui-block-c {
 	width: 100%;
 	float: none;
 }
 /* three columns at custom breakpoint */
 @media all and (min-width: 62em) {
-	.ui-block-a, .ui-block-b, .ui-block-c {
+	.ui-content .ui-block-a, .ui-content .ui-block-b, .ui-content .ui-block-c {
 		width: 32%;
 		margin-right: 1%;
+		float: left;
 	}
 }
