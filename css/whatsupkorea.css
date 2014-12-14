@@ -7,17 +7,15 @@ img.titlelogo {
 }
 /* stacked to start */
 .ui-block-a,
-.ui-block-b {
-    width: 100%;
-    float: none;
+.ui-block-b,
+.ui-block-c {
+	width: 100%;
+	float: none;
 }
-/* two columns at custom breakpoint */
+/* three columns at custom breakpoint */
 @media all and (min-width: 62em) {
-	.ui-block-b {
-		float: right;
-		width: 49.95%;
-	}
-	.ui-block-a {
-		width: 49.95%;
+	.ui-block-a, .ui-block-b, .ui-block-c {
+		width: 32%;
+		margin-right: 1%;
 	}
 }

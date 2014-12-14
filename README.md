@@ -5,11 +5,11 @@ A project site with content related to Korea. First project will use jQuery Mobi
 
 My week 10 canvas assignment is located at this/these URL(s): http://vultor.github.io/korean-card-maker/
 
-My week 11 video/audio assignment is located at this/these URL(s): ____
+My week 11 video/audio assignment is located at this/these URL(s): http://whatsupkorea.info/muju.html
 
 My week 12-13 jQuery Mobile assignment is located at this/these URL(s): http://whatsupkorea.info/
 
-Button is located here: ___
+Button is located here: http://whatsupkorea.info/
 
 My two widgets are Navbar widget and Listview widget and they are located on these pages: http://whatsupkorea.info/ and http://whatsupkorea.info/#rrkoreanfood
 
